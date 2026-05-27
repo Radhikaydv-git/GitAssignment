@@ -86,9 +86,13 @@ Screenshots
 Screenshots of all major Git operations were captured during the assignment execution.
 
 All PRs
+
 https://github.com/Radhikaydv-git/GitAssignment/pull/4
+
 https://github.com/Radhikaydv-git/GitAssignment/pull/3
+
 https://github.com/Radhikaydv-git/GitAssignment/pull/2
+
 https://github.com/Radhikaydv-git/GitAssignment/pull/1
 
 
